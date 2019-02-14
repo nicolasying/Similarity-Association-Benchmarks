@@ -1,0 +1,97 @@
+# SIMLEX
+
+- intelligent;intelligent;10.0
++ malin;intelligent;9.2
+
+- dur;rude;9.15
++ dur;raide;9.15
+
+- tranchant;terne;0.0
++ pointu;terne;0.0
+
+- rapide;rapide;10.0
+- étrange;bizarre;9.69
+- étroit;large;0.0
+- bizarre;bizarre;10.0
+- stupide;intelligent;0.0
+- facile;dur;0.0
+
+- rugueux;froid;0.08
++ raide;froid;0.08
+
+- bizarre;étrange;9.69
+- stupide;intelligent;0.0
+- sournois;étrange;0.38
+
+- film;film;10.0
++ film;pellicule;8.87
+
+- région;région;10.0
++ domaine;région;9.47
+
+- taxi;taxi;10.0
+- maladie;infection;4.46
+
+- couloir;couloir;10.0
++ couloir;corridor;9.28
+
+- porte;porte;10.0
++ porte;entrée;5.4
+
+- garçon;enfant;5.0
+
+- avocat;avocat;10.0
++ avocat;juriste;9.35
+
+- vêtements;tissu;3.54
+
+- moteur;moteur;10.0
++ moteur;locomotive;8.65
+
+- porte;porte;10.0
++ porte;portail;5.25
+
+- foule;foule;10.0
++ foule;masse;7.85
+
+- frontière;frontière;10.0
++ limite;frontière;9.08
+
+- femme;femme;10.0
++ femme;épouse;5.72
+
+- adversaire;adversaire;10.0
++ adversaire;opposant;9.05
+
+- ray;ensoleillement;2.46
++ rayon;ensoleillement;2.46
+
+- nuage;brouillard;5.54
+- chambre;lit;2.15
+
+- rabbi;ministre;3.77
++ rabbin;ministre;3.77
+
+- fille;enfant;5.0
+
+- charbon;charbon;10.0
++ charbon;houille;7.63
+
+- alcool;vin;4.85
+
+- disparaître;disparaître;10.0
++ se_dissiper;disparaître;9.8
+
+- errer;errer;10.0
++ errer;vaguer;8.83
+
+- connaître;comprendre;6.92
+- acquérir;obtenir;9.46
+
+- organiser;organiser;10.0
++ arranger;organiser;8.27
+
+
+# WS REL
+- stock;direct;3.73 (stock, live)
++ approvisionner;vivre;3.73
