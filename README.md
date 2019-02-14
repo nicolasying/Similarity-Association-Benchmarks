@@ -10,3 +10,11 @@ Lofi, C. Measuring Semantic Similarity and Relatedness with Distributional and K
 
 ## Semantic Association
 - French WS Relatedness: Translation by [siabar/Multilingual_Wordpairs](https://github.com/siabar/Multilingual_Wordpairs), Extraction of relevant word pairs according to WordSimilarity 353 [WS-353](http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/)
+
+# Part Of Speech Tagging
+
+Lemmatizer and POS Tagger: [LEFFF](https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer)
+
+In principle the word pairs should have the same POS tags. 
+
+POS tags are categorized into noun (n), verb (v), adjective (a), adverb (b).
