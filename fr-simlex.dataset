@@ -9,13 +9,13 @@ court;long;0.0
 stupide;idiot;9.08
 bizarre;étrange;9.69
 large;étroit;0.0
-mal;terrible;9.46
+mauvais;terrible;9.46
 facile;difficile;0.0
-mal;terrible;9.46
+mauvais;affreux;9.46
 dur;simple;0.0
 intelligent;stupide;0.0
 malsain;fou;9.62
-content;en_colère;0.0
+content;furieux;0.0
 grand;énorme;9.69
 dur;rude;9.15
 nouveau;frais;8.62
@@ -579,7 +579,7 @@ déni;confession;2.23
 argument;critique;4.31
 agression;hostilité;3.69
 hystérie;confusion;2.92
-chimie;theorie;2.92
+chimie;théorie;2.92
 procès;verdict;4.23
 confort;sécurité;4.77
 confiance;soi;3.77
@@ -599,7 +599,7 @@ fièvre;maladie;5.08
 aviation;vol;5.0
 jeu;action;2.77
 molécule;air;2.92
-maison;etat;2.15
+maison;état;2.15
 mot;littérature;3.77
 adulte;gardien;3.54
 journal;information;3.08
@@ -723,7 +723,7 @@ prison;choix;1.31
 condition;garçon;0.85
 fleur;endurance;1.08
 trou;accord;1.23
-medecin;humeur;1.38
+médecin;humeur;1.38
 fraternité;porte;1.46
 tâche;femme;1.08
 fraternité;base-ball;1.54
@@ -987,7 +987,7 @@ organiser;exiger;1.85
 emprunter;vouloir;2.0
 enquêter;poursuivre;5.31
 ignorer;explorer;0.69
-apporter;se_plaindre;1.15
+apporter;plaindre;1.15
 entrer;devoir;1.0
 représenter;notifier;1.62
 rappeler;vendre;0.69
@@ -995,5 +995,5 @@ absorber;posséder;3.15
 rejoindre;acquérir;2.15
 envoyer;assister;2.08
 rassembler;assister;2.85
-absorber;se_désister;1.08
+absorber;désister;1.08
 assister;arriver;5.31
