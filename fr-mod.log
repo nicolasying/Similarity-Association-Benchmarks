@@ -1,12 +1,15 @@
 # SIMLEX
 
 - intelligent;intelligent;10.0
+  smart;intelligent;9.2
 + malin;intelligent;9.2
 
 - dur;rude;9.15
+  hard;tough;8.05
 + dur;raide;9.15
 
 - tranchant;terne;0.0
+  sharp;dull;0.6
 + pointu;terne;0.0
 
 - rapide;rapide;10.0
@@ -17,6 +20,7 @@
 - facile;dur;0.0
 
 - rugueux;froid;0.08
+  rough;frigid;2.47
 + raide;froid;0.08
 
 - bizarre;étrange;9.69
@@ -24,71 +28,88 @@
 - sournois;étrange;0.38
 
 - film;film;10.0
+  movie;film;8.87
 + film;pellicule;8.87
 
 - région;région;10.0
+  area;region;9.47
 + domaine;région;9.47
 
 - taxi;taxi;10.0
 - maladie;infection;4.46
 
 - couloir;couloir;10.0
+  hallway;corridor;9.28
 + couloir;corridor;9.28
 
 - porte;porte;10.0
+  door;doorway;5.4
 + porte;entrée;5.4
 
 - garçon;enfant;5.0
 
 - avocat;avocat;10.0
+  attorney;lawyer;9.35
 + avocat;juriste;9.35
 
 - vêtements;tissu;3.54
 
 - moteur;moteur;10.0
+  motor;engine;8.65
 + moteur;locomotive;8.65
 
 - porte;porte;10.0
+  door;gate;5.25
 + porte;portail;5.25
 
 - foule;foule;10.0
+  mob;crowd;7.85
 + foule;masse;7.85
 
 - frontière;frontière;10.0
+  boundary;border;9.08
 + limite;frontière;9.08
 
 - femme;femme;10.0
+  woman;wife;5.72
 + femme;épouse;5.72
 
 - adversaire;adversaire;10.0
+  adversary;opponent;9.05
 + adversaire;opposant;9.05
 
 - ray;ensoleillement;2.46
+  ray;sunshine;6.83
 + rayon;ensoleillement;2.46
 
 - nuage;brouillard;5.54
 - chambre;lit;2.15
 
 - rabbi;ministre;3.77
+  rabbi;minister;7.62
 + rabbin;ministre;3.77
 
 - fille;enfant;5.0
 
 - charbon;charbon;10.0
+  charcoal;coal;7.63
 + charbon;houille;7.63
 
 - alcool;vin;4.85
 
 - disparaître;disparaître;10.0
+  vanish;disappear;9.8
 + se_dissiper;disparaître;9.8
 
 - errer;errer;10.0
+  roam;wander;8.83
 + errer;vaguer;8.83
 
 - connaître;comprendre;6.92
 - acquérir;obtenir;9.46
 
 - organiser;organiser;10.0
+  arrange;organize;8.27
 + arranger;organiser;8.27
 
 
